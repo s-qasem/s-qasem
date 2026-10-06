@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Safa's developer workspace">
+</p>
+
+<br>
+
 # Hi, I'm Safa.
 
 ### Somewhere between “I have an idea” and “it works!” 💻
