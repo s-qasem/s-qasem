@@ -16,7 +16,7 @@ I like building things, understanding how they work, and learning what happens b
 
 ## ✦ Featured Projects
 
-A few real-world projects I've designed and developed.
+A few real-world projects I've designed and developed — plus what I'm planning next.
 
 ### 01 — LQMAH Café ☕
 
@@ -35,6 +35,20 @@ A client website designed and developed with an elegant, responsive interface an
 **React • JavaScript • Vite**
 
 [View Live Site](https://niola-lounge.vercel.app) · [View Repository](https://github.com/s-qasem/niola-lounge)
+
+---
+
+### 03 — Sentinel 🛡️
+
+**Security Operations & Threat Monitoring Dashboard**
+
+A cybersecurity project I'm planning to bridge my interests in software development and security.
+
+Sentinel will explore analyzing security events and authentication logs, identifying suspicious activity and failed-login patterns, and presenting meaningful alerts through a centralized monitoring dashboard.
+
+**Planned Stack:** Next.js • TypeScript • Python • PostgreSQL
+
+🚧 **Coming Soon — Currently in Planning**
 
 ---
 
