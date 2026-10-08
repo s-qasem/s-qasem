@@ -66,12 +66,23 @@ Sentinel will explore analyzing security events and authentication logs, identif
 
 ## ✦ About Me
 
-I'm a web developer and **CIS – Cybersecurity student at Henry Ford College**.
+Building things.  
+Breaking things.  
+Learning why. 💻
 
-Building web applications is one of the ways I learn best. I enjoy understanding how the pieces fit together — from the interface people interact with to what is happening behind it.
+Ctrl+Z is part of the process.  
+50% curiosity. 50% “let me try something.”
 
-Currently balancing code, cybersecurity labs, new ideas, and probably too many browser tabs. :)
+Turning “what if…” into “why isn’t this working?”  
+Making bugs. Fixing bugs.  
+Probably debugging something I just “fixed.”
 
----
+Professional tab opener.  
+Occasional tab closer.
 
-> Still learning. Still building. Always curious.
+Learning one error message at a time. 🐛  
+Code. Break. Fix. Repeat. 🔁
+
+And when everything finally works...
+
+**Please don’t ask me why. 😭**
