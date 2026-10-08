@@ -97,7 +97,7 @@ Professional tab opener. Occasional tab closer.
 **Ctrl+Z is part of the process.**
 
 <p align="center">
-  <img src="assets/about/safa-vs-bugs-more-motion.gif" width="600" alt="Safa fighting bugs while debugging">
+  <img src="assets/about/safa-vs-bugs.gif" width="600" alt="Safa fighting bugs while debugging">
 </p>
 
 <p align="center">
