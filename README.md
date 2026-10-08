@@ -1,15 +1,8 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Safa's developer workspace">
+  <img src="githubbanner.png" width="100%" alt="Safa's developer workspace">
 </p>
 
 <br>
-
-# Hi, I'm Safa.
-
-### I turn ideas into things I can actually click on. 💻
-
-Cybersecurity student • Building & learning • Usually experimenting with something
-I like building things, understanding how they work, and learning what happens behind the scenes along the way.
 
 ---
 
