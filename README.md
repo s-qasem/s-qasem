@@ -85,7 +85,7 @@ A few real-world projects I've designed and developed — plus what I'm planning
   <img src="https://img.shields.io/badge/Linux-1f2328?style=flat&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/Cloud-1f2328?style=flat&logo=icloud&logoColor=3693F3" alt="Cloud">
 </p>
----
+
 
 ## ✦ About Me
 
@@ -97,7 +97,7 @@ Professional tab opener. Occasional tab closer.
 **Ctrl+Z is part of the process.**
 
 <p align="center">
-  <img src="assets/about/debugging.gif" width="600" alt="Safa fighting bugs while debugging">
+  <img src="assets/about/safa-vs-bugs-more-motion.gif" width="600" alt="Safa fighting bugs while debugging">
 </p>
 
 <p align="center">
