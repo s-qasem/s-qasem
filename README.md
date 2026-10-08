@@ -17,39 +17,52 @@ I like building things, understanding how they work, and learning what happens b
 
 A few real-world projects I've designed and developed — plus what I'm planning next.
 
-### 01 — LQMAH Café ☕
+<table>
+<tr>
 
-A full-stack client project built from the ground up, with a custom CMS and administrative dashboard for managing menus, galleries, reviews, website content, and more.
+<td width="33%" valign="top">
+  <img src="assets/projects/lqmah.png" width="100%" alt="LQMAH Café">
 
-**Next.js • React • TypeScript • Supabase • PostgreSQL**
+  <h3>01 — LQMAH Café ☕</h3>
 
-[View Live Site](https://lqmah-cafe.vercel.app) · [View Repository](https://github.com/s-qasem/LQMAH)
+  <p>Full-stack client project with a custom CMS and admin dashboard.</p>
+
+  <p><strong>Next.js · React · TypeScript · Supabase</strong></p>
+
+  <a href="https://lqmah-cafe.vercel.app">Live Site</a> ·
+  <a href="https://github.com/s-qasem/LQMAH">Repository</a>
+</td>
+
+<td width="33%" valign="top">
+  <img src="assets/projects/niola.png" width="100%" alt="Niola Lounge">
+
+  <h3>02 — Niola Lounge ✦</h3>
+
+  <p>Responsive client website with a custom content-management experience.</p>
+
+  <p><strong>React · JavaScript · Vite</strong></p>
+
+  <a href="https://niola-lounge.vercel.app">Live Site</a> ·
+  <a href="https://github.com/s-qasem/niola-lounge">Repository</a>
+</td>
+
+<td width="33%" valign="top">
+  <img src="assets/projects/sentinel.png" width="100%" alt="Sentinel cybersecurity project">
+
+  <h3>03 — Sentinel 🛡️</h3>
+
+  <p>Planned cybersecurity project for exploring security tools, monitoring, and hands-on defense.</p>
+
+  <p><strong>Cybersecurity · Security Labs · Monitoring</strong></p>
+
+  <code>Coming Soon</code>
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 02 — Niola Lounge ✦
-
-A client website designed and developed with an elegant, responsive interface and custom administration experience for managing website content.
-
-**React • JavaScript • Vite**
-
-[View Live Site](https://niola-lounge.vercel.app) · [View Repository](https://github.com/s-qasem/niola-lounge)
-
----
-
-### 03 — Sentinel 🛡️
-
-**Security Operations & Threat Monitoring Dashboard**
-
-A cybersecurity project I'm planning to bridge my interests in software development and security.
-
-Sentinel will explore analyzing security events and authentication logs, identifying suspicious activity and failed-login patterns, and presenting meaningful alerts through a centralized monitoring dashboard.
-
-**Planned Stack:** Next.js • TypeScript • Python • PostgreSQL
-
-🚧 **Coming Soon — Currently in Planning**
-
----
 
 ## ✦ Technologies I Use
 
