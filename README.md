@@ -6,10 +6,9 @@
 
 # Hi, I'm Safa.
 
-### Somewhere between “I have an idea” and “it works!” 💻
+### I turn ideas into things I can actually click on. 💻
 
-I enjoy turning ideas into real, usable web experiences while studying **CIS – Cybersecurity** at Henry Ford College.
-
+Cybersecurity student • Building & learning • Usually experimenting with something
 I like building things, understanding how they work, and learning what happens behind the scenes along the way.
 
 ---
